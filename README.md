@@ -45,7 +45,7 @@ pip install xgboost pandas scikit-learn matplotlib seaborn
 ### Running the Project
 Clone this repository and run the main script:
 ```bash
-git clone https://github.com/seu-usuario/USING-XGBOOST-MODELS-FOR-DAILY-RAINFALL-PREDICTION.git
+git clone https://github.com/ditron6/USING-XGBOOST-MODELS-FOR-DAILY-RAINFALL-PREDICTION.git
 cd USING-XGBOOST-MODELS-FOR-DAILY-RAINFALL-PREDICTION
 python main.py
 ```
